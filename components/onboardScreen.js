@@ -87,6 +87,7 @@ const Onboard = (props) => {
     )
 };
 
+    // get to the homepage after watching the onboarding flow
     const handleDone = () => {
         props.handleDone();
     }
